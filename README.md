@@ -1,6 +1,6 @@
 <h1 align="center">
   <div style="padding: 10px; border-radius: 8px;">
-    <img src="public\assets\images\FlatEasy-Blue.png" alt="Flat Easy logo" style="width: 50%; height 50%">
+    <img src="https://github.com/CauiDavis/flateasy-readme/blob/main/gitassets/flat_easy_blue.png" alt="Flat Easy logo" style="width: 50%; height 50%">
   </div>
 </h1>
 
@@ -53,3 +53,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## :dart: Status do Projeto
 
 MVP - Produto Mínimo Viável em desenvolvimento :rocket:.
+<div>
+  <img src="https://github.com/CauiDavis/flateasy-readme/blob/main/gitassets/flat_easy_blue.png" alt="Flat Easy logo" style="width: 100%;">
+</div>
