@@ -1,5 +1,5 @@
 <h1 align="center">
-  <div style="padding: 10px; border-radius: 8px;">
+  <div style="padding: 10px; border-radius: 8px;" align="center">
     <img src="https://github.com/CauiDavis/flateasy-readme/raw/main/gitassets/flat_easy_blue.png" alt="Flat Easy logo" style="width: 250px;">
   </div>
 </h1>
