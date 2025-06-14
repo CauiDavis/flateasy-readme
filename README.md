@@ -15,7 +15,7 @@ Este projeto é criar um site moderno e funcional para a Flat Easy, adicionando 
 ## :wrench: Tecnologias Utilizadas
 
 - NextJS
-- TailWind
+- TailWindCSS
 - Typescript
 
 
